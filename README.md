@@ -1,3 +1,6 @@
+Authors:
+38012, 46649, 41545
+
 # 🥘 Recipe Organizer
 
 A modern web application for storing, organizing, and managing your favorite recipes in one place. This project was built using React for the frontend and MongoDB as the database.
